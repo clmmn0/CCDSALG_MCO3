@@ -13,6 +13,6 @@ A C-based program that uses Binary Search Trees (BST) to create an alphabetical 
 5. Type and run `main` in the command prompt or simply double-click the `main.exe` file. 
 6. Wait for the program to start.
 7. Input the filename of the text file that contains the input.
-8. The output text file will be created in the same directory after the program has finished its execution.
+8. The output text file will be created in the same directory after the program has finished executing.
 
 You may also run the program using applications like Dev-C++ or Visual Studio Code.
