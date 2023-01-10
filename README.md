@@ -1,4 +1,4 @@
-# CCDSALG_MCO3
+# CCDSALG_MCO3_WordCount
 
 A C-based program that uses Binary Search Trees (BST) to create an alphabetical list of words with their corresponding frequency count. Only words with a length of at least 3 words are counted.
 
